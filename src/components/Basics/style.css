@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,900;1,400&family=Oswald:wght@700&family=Poppins:wght@300&family=Rubik+Bubbles&display=swap');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Lato", sans-serif;
+font-family: 'Poppins', sans-serif;
 }
 
 html {
